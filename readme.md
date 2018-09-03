@@ -1,3 +1,5 @@
 Project created to master css.
 
-![Screenshot](/images/workshop.png) !
+https://joannapietryka.github.io/warsztat_1/
+
+![Screenshot](/images/workshop.png) 
